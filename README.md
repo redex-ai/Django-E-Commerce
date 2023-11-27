@@ -3,6 +3,7 @@
 - Python
 - Django
 - Venv
+- Other
 
 
 ### Photos
