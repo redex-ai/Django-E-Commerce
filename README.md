@@ -6,6 +6,7 @@
 
 
 ### Photos
+RANDOM
 
 ##### Home Page with login
 <img alt="" src="https://github.com/MET-DEV/Django-E-Commerce/blob/master/project_images/capture_20220323080815407.jpg"></img>
